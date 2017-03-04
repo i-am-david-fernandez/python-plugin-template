@@ -1,0 +1,4 @@
+*~
+*.tdy
+.emacs.desktop*
+__pycache__
